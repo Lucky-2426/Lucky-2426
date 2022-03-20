@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucky KAKPO
-- 👀 I’m interested in app development projects, cloud and data analysis.
-- 🌱 I’m currently learning Business Analysis, Javascript and Python for data analysis.
-- 💞️ I’m looking to collaborate on Javascript and Python projects
+- 👀 I’m interested in data science projects
+- 🌱 I’m currently learning Data Analysis (R & Python mainly)
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me : luckykakpoerm@gmail.com
 
 <!---
