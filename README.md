@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucky KAKPO
 - 👀 I’m interested in data science projects
-- 🌱 I’m currently learning Data Analysis (R & Python mainly)
+- 🌱 I’m currently Data Analysis Consultant (Python mainly)
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me : luckykakpoerm@gmail.com
 
